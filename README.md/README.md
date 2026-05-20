@@ -118,6 +118,7 @@ npx n8n
 3. View cleaned data and AI summaries in the Google Sheet
 
 ## Project Structure
+```
 lead-intake-automation/
 ├── README.md
 ├── apps-script/
@@ -128,7 +129,7 @@ lead-intake-automation/
 ├── sheet-structure.png
 ├── n8n-workflow.png
 └── sample-output.png
-
+```
 ## Known Limitations
 
 - n8n must be running locally for the workflow to execute
